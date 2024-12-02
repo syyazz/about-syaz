@@ -1,0 +1,269 @@
+<!DOCTYPE  html>
+<html>
+<head>
+
+<link rel="stylesheet" href="biodatastyle.css">
+<title>About Me</title>
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+<img src="pokemonlogo.png" alt="Pokemon Logo">
+</div>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+</ul>
+</nav>
+
+<div class="play-now">
+<button>Play Now</button>
+</div>
+
+
+</header>
+
+<main>
+<a name="sya">
+<div class="first-section">
+<h1 class="my-name">PERSONAL INFORMATION</h1>
+
+</div>
+</main>
+
+
+
+<div class="personal-info">
+<p> Background Details </p>
+<p> Information Management | Idea Explorer | Dessert Lover </p>
+
+
+<div class="love">
+  <img src="love.png" alt="love">
+</div>
+</section>
+</main>
+
+<div class="cake">
+  <img src="cake.png" alt="cake">
+</div>
+</section>
+</main>
+
+<div class="berry">
+  <img src="berry.png" alt="berry">
+</div>
+</section>
+</main>
+
+
+
+
+<div class="personal2-info">
+<p> Hello! my name is Nurizatul Syazana Binti Harun, and i'm from Ipoh, Perak. I'm 20 years old </p>
+<p> and currently pusuing a diploma in Information Management. I come from a loving family with </p>
+<p> six siblings-three boys and three girls-and i cherish them dearly. When it comes to food, </p>
+<p> I can’t resist chicken buttermilk or a creamy bowl of mac and cheese. On top of that, </p>
+<p>  I’m a dedicated dessert lover who’s always on the lookout for sweet treats! </p>
+
+<div class="fav-meals">
+<p> Favourite Meals </p>
+<p>  Foods | Drinks | Dessert </p>
+
+<div class="food-intro">
+<p> "Three words to describe me? Mac, Matcha, and Brownies." </p>
+
+<div class="food1">
+<img src="food1.png" alt="food1">
+</div>
+
+<div class="drinks">
+<img src="drinks.png" alt="drinks">
+</div>
+
+<div class="dessert">
+<img src="dessert.png" alt="dessert">
+</div>
+
+
+<div class="meals-intro">
+<p> "My favorite foods are a perfect mix of comfort and indulgence."</p>
+<p>  Mac & cheese is rich and creamy, like a warm hug in every bite.  </p>
+<p>  A matcha latte is smooth and refreshing with that energizing </p>
+<p>  flavor. And of course, a decadent brownie with a fudgy center </p>
+<p>  edges-pure sweetness.Its bring me so much joy every time!" </p>
+
+<audio id="music-mp3" controls autoplay muted>
+  <source src="music.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<div class="fav-songs">
+<p> Favourite Songs </p>
+<p> Pop | R & B </p>
+
+<div class="songs-intro">
+<p> "When it comes to music, Lana Del Rey and Billie Eilish are my </p>
+<p>  absolute favorites —they just get all the vibes I love! </p>
+
+<div class="song-name">
+<p> WildFlower </p>
+
+<audio id="music2-mp3" controls autoplay muted>
+  <source src="music2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<div class="song-name2">
+<p> HappierThanEver </p>
+
+<audio id="music3-mp3" controls autoplay muted>
+  <source src="music3.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<div class="ldr">
+<img src="ldr.png" alt="ldr">
+</div>
+
+<div class="billie">
+<img src="billie.png" alt="billie">
+</div>
+
+<div class="billie2">
+<img src="billie2.png" alt="billie2">
+</div>
+
+
+<div class="song-name3">
+<p> CinamonGirl </p>
+
+<audio id="music4-mp3" controls autoplay muted>
+  <source src="music4.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<div class="song-name4">
+<p> BornToDie </p>
+
+<div class="pikasong">
+<img src="pikasong.png" alt="pikasong">
+</div>
+
+
+<main>
+<div class="sec-section">
+<h1 class="my-education">HOBBY & INTEREST</h1>
+</main>
+
+
+<div class="first-hobby">
+<p> Reading Book | Photography | Baking </p>
+
+
+<div class="myself">
+  <img src="me2.jpg" alt="me2">
+</div>
+</section>
+</main>
+
+<div class="book">
+  <img src="book.png" alt="book">
+
+<div class="reading-intro">
+<p> "I absolutely love emmersing myself in books – whether it’s fiction that takes me to a</p>
+<p>  a new world or non-fiction that broadens my understanding of life. </p>
+<p>  Reading is like a mini adventure for me! </p>
+
+<div class="pikaread">
+  <img src="pikaread.png" alt="pikaread">
+
+<div class="scenery">
+  <img src="scenery.png" alt="scenery">
+</div>
+
+
+<div class="pikagame">
+  <img src="pikagame.png" alt="pikagame">
+
+<div class="cutiepika">
+  <img src="cutiepika.png" alt="cutiepika">
+
+<div class="book2">
+  <img src="book2.png" alt="book2">
+
+<div class="ldr2">
+  <img src="ldr2.png" alt="ldr2">
+</div>
+
+<div class="polaroid">
+  <img src="polaroid.png" alt="polaroid">
+
+
+<div class="vase">
+  <img src="vase.png" alt="vase">
+
+<div class="scenery-intro">
+<p> On the other hand, I find peace and joy in capturing nature’s beauty through my camera. </p>
+<p> Sunsets, beaches, and the serene colors of the sky are my favorite subjects </p>
+<p> because they remind me how simple moments can be breathtaking. </p>
+<p> It’s a perfect mix of relaxation and creativity!</p>
+</div>
+
+
+<div class="baking-intro">
+<p>  One of my favorite things to do is baking! I find so much joy</p>
+<p>  in creating sweet treats and experimenting with new recipes. </p>
+<p>  From the smell of freshly baked cookies to decorating cakes with </p>
+<p>  unique designs, baking is a way of relaxing and experssing creativity.</p>
+<a href="#sya">Intro</a>
+</div>
+
+
+<div class="muffin">
+  <img src="muffin.png" alt="muffin">
+
+<div class="strawberry">
+  <img src="strawberry.png" alt="strawberry">
+
+<div class="preparation">
+  <img src="preparation.png" alt="preparation">
+
+<div class="c1">
+  <img src="c1.png" alt="c1">
+
+<div class="cookies">
+  <img src="cookies.png" alt="cookies">
+
+<div class="chef">
+  <img src="chef.png" alt="chef">
+
+<div class="capture">
+  <img src="capture.png" alt="capture">
+
+<div class="coffea">
+  <img src="coffea.png" alt="coffea">
+
+<video width="349" height="200" controls>
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
+
+</div>
+</section>
+</main>
+
+
+
+</body>
+</html>
