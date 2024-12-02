@@ -1,0 +1,276 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body {
+font-family: 'Arial', sans-serif;
+height: 2000px;
+background: linear-gradient(to right, #666699 0%, #ff99cc 100%);
+}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom-style: dashed;
+border-color: lavenderblush;
+background: linear-gradient(to right, #666699 0%, #ff99cc 100%);
+padding: 20px;
+position: relative;
+}
+
+.logo img{
+width: 100px;
+}
+
+nav ul {
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+padding: 16px 30px;
+text-align: center;
+font-size: 16px;
+margin: 2px 2px;
+border: 4px solid white;
+box-shadow: 10px 10px 5px black;
+display: flex;
+list-style: none;
+}
+
+
+nav ul li {
+display: flex;
+list-style: none;
+margin-right: 20px;
+}
+
+nav ul li a {
+text-decoration: none;
+color: black;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;
+padding: 1px 13px;
+border-radius: 5px;
+transition: all 0.3 ease;
+}
+
+nav ul li a:hover {
+background-color: black;
+color: powderblue;
+box-shadow: 0 8px 8px rgba(0,0, 0, 0.2);
+}
+
+
+.play-now button {
+background-color: yellowgreen;
+margin-left: 10px;
+padding: 12px 20px;
+border-style: none;
+border-radius: 9px;
+box-shadow: 5px 5px 5px grey;
+}
+
+.first-section{
+text-align: center;
+text-decoration: underline;
+font-size: 14px;
+padding: 40px 100px;
+margin-top: 0px;
+color: lavenderblush;
+}
+
+
+
+.school-info{
+text-align: left;
+margin-left: 400px;
+margin-top: 25px;
+color: aliceblue;
+}
+
+.school1-info{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 530px;
+height: 190px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 6px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 28px;
+}
+
+.school2 img {
+position: absolute;
+width: 320px;
+right: 990px;
+top: 304px;
+border-radius: 14px ;
+box-shadow: 5px 5px 5px black;
+}
+
+
+.school img {
+position: absolute;
+width: 320px;
+right: 40px;
+top: 304px;
+border-radius: 14px ;
+box-shadow: 5px 5px 5px black;
+}
+
+.SPM-info{
+text-align: left;
+margin-left: -25px;
+margin-top: 60px;
+color: aliceblue;
+}
+
+.SPM2-info{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 530px;
+height: 380px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: left;
+margin-left: 6px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 28px;
+}
+
+.styled-table {
+width: 80%;
+margin: 20px auto;
+margin-left: 320px;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+background: linear-gradient(to right, #e66465, #9198e5);
+color: #fff;
+text-align: center;
+border-radius: 8px;
+overflow: hidden;
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.styled-table th,
+.styled-table td {
+padding: 15px;
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.styled-table th {
+background-color: rgba(0, 0, 0, 0.4);
+font-size: 18px;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.styled-table tr:hover {
+background-color: rgba(0, 0, 0, 0.2);
+transition: 0.3s ease;
+}
+
+.styled-table tbody tr:last-of-type td {
+border: none;
+}
+
+.styled-table td {
+font-size: 16px;
+text-align: center;
+}
+
+.styled-table2 {
+width: 80%;
+margin: 20px auto;
+margin-left: -200px;
+margin-top: -622px;
+border-collapse: collapse;
+font-family: Arial, sans-serif;
+background: linear-gradient(to right, #e66465, #9198e5);
+color: #fff;
+text-align: center;
+border-radius: 8px;
+overflow: hidden;
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.styled-table2 th,
+.styled-table2 td {
+padding: 15px;
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.styled-table2 th {
+background-color: rgba(0, 0, 0, 0.4);
+font-size: 18px;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.styled-table2 tr:hover {
+background-color: rgba(0, 0, 0, 0.2);
+transition: 0.3s ease;
+}
+
+.styled-table2 tbody tr:last-of-type td {
+border: none;
+}
+
+.styled-table2 td {
+font-size: 16px;
+text-align: center;
+}
+
+
+.loc-info{
+text-align: left;
+margin-left: -25px;
+margin-top: 100px;
+color: aliceblue;
+}
+
+.loc1-info{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 530px;
+height: 100px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 6px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 28px;
+}
+
+perak-map img {
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+
+ perak-map img:hover {
+    box-shadow: 0 0 15px 10px rgba(0, 123, 255, 0.8); /* Blue glow */
+    transform: scale(1.03); /* Slight zoom effect */
+  }

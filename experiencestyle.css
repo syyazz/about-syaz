@@ -1,0 +1,377 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body {
+font-family: 'Arial', sans-serif;
+height: 1500px;
+background: linear-gradient(to right, #666699 0%, #ff99cc 100%);
+}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom-style: dashed;
+border-color: lavenderblush;
+background: linear-gradient(to right, #666699 0%, #ff99cc 100%);
+padding: 20px;
+position: relative;
+}
+
+.logo img{
+width: 100px;
+}
+
+nav ul {
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+padding: 16px 30px;
+text-align: center;
+font-size: 16px;
+margin: 2px 2px;
+border: 4px solid white;
+box-shadow: 10px 10px 5px black;
+display: flex;
+list-style: none;
+}
+
+
+nav ul li {
+display: flex;
+list-style: none;
+margin-right: 20px;
+}
+
+nav ul li a {
+text-decoration: none;
+color: black;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;
+padding: 1px 13px;
+border-radius: 5px;
+transition: all 0.3 ease;
+}
+
+nav ul li a:hover {
+background-color: black;
+color: powderblue;
+box-shadow: 0 8px 8px rgba(0,0, 0, 0.2);
+}
+
+
+.play-now button {
+background-color: yellowgreen;
+margin-left: 10px;
+padding: 12px 20px;
+border-style: none;
+border-radius: 9px;
+box-shadow: 5px 5px 5px grey;
+}
+
+
+.first-section{
+text-align: center;
+font-size: 14px;
+padding: 40px 100px;
+margin-top: 0px;
+color: aliceblue;
+}
+
+
+.intern-info{
+text-align: left;
+margin-left: 400px;
+margin-top: 25px;
+color: aliceblue;
+}
+
+.intern1-info{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 530px;
+height: 190px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: -50px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 28px;
+}
+
+
+.intern-intro{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 520px;
+height: 190px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 400px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 54px;
+}
+
+.photointern img{
+position: absolute;
+width: 250px;
+margin-left: -490px;
+margin-top: -232px;
+}
+
+
+.wall img{
+position: absolute;
+width: 218px;
+margin-left: 549px;
+margin-top: -300px;
+}
+
+.pikawork img{
+position: absolute;
+width: 180px;
+margin-left: 450px;
+margin-top: -160px;
+}
+
+
+.apple img{
+position: absolute;
+width: 160px;
+margin-left: 300px;
+margin-top: -100px;
+}
+
+.dino img{
+position: absolute;
+width: 110px;
+margin-left: -600px;
+margin-top: -372px;
+}
+
+
+.benefit{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 550px;
+height: 190px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: -700px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: -172px;
+}
+
+.sec-section{
+text-align: center;
+font-size: 14px;
+padding: 40px 100px;
+margin-top: 50px;
+margin-left: 420px;
+color: aliceblue;
+}
+
+.skill-info{
+text-align: left;
+font-size: 120%; 
+margin-left: -240px;
+margin-top: 25px;
+color: lavenderblush;
+}
+
+
+.Database{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 700px;
+height: 140px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 50px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 20px;
+}
+
+.word img{
+position: absolute;
+width: 170px;
+margin-left: -570px;
+margin-top: -160px;
+}
+
+
+.powerpoint img{
+position: absolute;
+width: 180px;
+margin-left: -700px;
+margin-top: -120px;
+}
+
+
+.skillpika img{
+position: absolute;
+width: 160px;
+margin-left: 90px;
+margin-top: -267px;
+}
+
+.boy img{
+position: absolute;
+width: 190px;
+margin-left: -700px;
+margin-top: -278px;
+}
+
+.matcha img{
+position: absolute;
+width: 190px;
+margin-left: 385px;
+margin-top: -278px;
+}
+
+.prof img{
+position: absolute;
+width: 180px;
+margin-left: -50px;
+margin-top: -278px;
+}
+
+.skill2-info{
+text-align: left;
+margin-left: -70px;
+margin-top: 60px;
+color: lavenderblush;
+}
+
+.communicate{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 780px;
+height: 140px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: -100px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 20px;
+}
+
+.laptop img{
+position: absolute;
+width: 187px;
+margin-left: 400px;
+margin-top: -206px;
+}
+
+
+.com img{
+position: absolute;
+width: 150px;
+margin-left: -530px;
+margin-top: -190px;
+}
+
+.pikalap img{
+position: absolute;
+width: 120px;
+margin-left: 50px;
+margin-top: -220px;
+}
+
+
+.pikalap2 img{
+position: absolute;
+width: 105px;
+margin-left: -32px;
+margin-top: -210px;
+}
+
+
+.skill3-info{
+text-align: left;
+margin-left: 78px;
+margin-top: 60px;
+color: lavenderblush;
+}
+
+
+.creative{
+background: linear-gradient(to bottom, #ffccff 0%, #99ccff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 700px;
+height: 140px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 50px;
+color: black;
+padding: 20px;
+line-height: 30px;
+margin-top: 20px;
+}
+
+
+.pikaphoto img{
+position: absolute;
+width: 105px;
+margin-left: 200px;
+margin-top: -210px;
+}
+
+.direct img{
+position: absolute;
+width: 105px;
+margin-left: 120px;
+margin-top: -210px;
+}
+
+
+.camera1 img{
+position: absolute;
+width: 220px;
+margin-left: -580px;
+margin-top: -150px;
+}
+
+.polaroid2 img{
+position: absolute;
+width: 140px;
+margin-left: -710px;
+margin-top: -150px;
+}
+
+}
+
+
+

@@ -1,0 +1,241 @@
+<!DOCTYPE  html>
+<html>
+<head>
+
+<link rel="stylesheet" href="educationstyle.css">
+<title>Education</title>
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+<img src="pokemonlogo.png" alt="Pokemon Logo">
+</div>
+
+<nav>
+<ul>
+<li><a href="homepage.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+</ul>
+</nav>
+
+<div class="play-now">
+<button>Play Now</button>
+</div>
+
+
+</header>
+
+<main>
+<div class="first-section">
+<h1 class="my-name">HIGH SCHOOL</h1>
+</main>
+
+
+<div class="school-info">
+<p> SMKDARY | PERAK </p>
+<p> PT3 | SPM </p>
+
+
+
+
+<div class="school1-info">
+<p> I attended Sekolah Menengah Kebangsaan Dato’ Abdul Rahman  </p>
+<p> Ya’akub (SMKDARY) and completed my PT3 and SPM there. </p>
+<p> My time at SMKDARY was unforgettable. I built lasting </p>
+<p> friendships, learned valuable lessons, and gained skills </p>
+<p> that have shaped who I am today. </p>
+
+<div class="SPM-info">
+<p> PT3 | SPM </p>
+
+
+<div class="school2">
+  <img src="school2.jpg" alt="school">
+</div>
+</section>
+</main>
+
+<div class="school">
+  <img src="school.jpg" alt="school">
+</div>
+</section>
+</main>
+
+
+<style>
+table, th, td {
+  border:2px solid black;
+postion: absolute;
+margin-top: 20px;
+}
+</style>
+<body>
+
+
+
+<table class="styled-table">
+  <thead>
+  <tr>
+    <th><center>RESULT EXAMINATION (SPM)</center></th>
+    <th><center>GRADE</center></th>
+ </thead>
+ <tbody>
+ 
+    
+  </tr>
+  <tr>
+    <td><center>BAHASA MELAYU</center></td>
+    <td><center>A+</center></td>
+    
+  </tr>
+  <tr>
+    <td><center>ENGLISH</center></td>
+    <td><center>C+</center></td>
+    
+  </tr>
+  <tr>
+  <td><center>MATHEMATICS</center></td>
+    <td><center>D</center></td>
+    </tr>
+    <tr>
+
+    <td><center>SCIENCE</center></td>
+    <td><center>A-</center></td>
+    </tr>
+    <tr>
+
+    <td><center>HISTORY</center></td>
+    <td><center>A-</center></td>
+    </tr>
+    <tr>
+
+    <td><center>ART VISUAL</center></td>
+    <td><center>A+</center></td>
+    </tr>
+    <tr>
+    <td><center>SCIENCE COMPUTER</center></td>
+    <td><center>B</center></td>
+    </tr>
+    <tr>
+
+    <td><center>MORAL STUDIES</center></td>
+    <td><center>A+</center></td>
+    </tr>
+    <tr>
+    <td><center>GRAPHIC COMMUNICATION TECHNICAL</center></td>
+    <td><center>C+</center></td>
+    </tr>
+    <tr>
+    
+  
+    
+  
+</table>
+
+
+  </tbody>
+
+
+<table class="styled-table2">
+  <thead>
+  <tr>
+    <th><center>RESULT EXAMINATION (PT3) </center></th>
+    <th><center>GRADE</center></th>
+ </thead>
+ <tbody>
+ 
+    
+  </tr>
+  <tr>
+    <td><center>BAHASA MELAYU</center></td>
+    <td><center>A+</center></td>
+    
+  </tr>
+  <tr>
+    <td><center>ENGLISH</center></td>
+    <td><center>C+</center></td>
+    
+  </tr>
+  <tr>
+  <td><center>MATHEMATICS</center></td>
+    <td><center>E</center></td>
+    </tr>
+    <tr>
+
+    <td><center>SCIENCE</center></td>
+    <td><center>A-</center></td>
+    </tr>
+    <tr>
+
+    <td><center>HISTORY</center></td>
+    <td><center>A-</center></td>
+    </tr>
+    <tr>
+
+    <td><center>ART VISUAL</center></td>
+    <td><center>A+</center></td>
+    </tr>
+    <tr>
+    <td><center>SCIENCE COMPUTER</center></td>
+    <td><center>A</center></td>
+    </tr>
+    <tr>
+
+    <td><center>MORAL STUDIES</center></td>
+    <td><center>A+</center></td>
+    </tr>
+    <tr>
+    
+    
+  
+    
+  
+</table>
+  </tbody>
+</html>
+
+<div class="loc-info">
+<p> LOCATION | MAPS </p>
+
+<div class="loc1-info">
+<p> Click the 'SMKDARY' label to see where my school is located on Google Maps!  </p>
+
+ <img 
+      src="https://www.google.com/maps/vt/data=SMKDARY_IMAGE_URL" 
+      alt="Map of SMKDARY" 
+      usemap="#smkdarymap"
+    />
+
+    <!-- Image Map -->
+    <map name="smkdarymap">
+      <!-- Clickable Area -->
+      <area 
+        shape="circle" 
+        coords="250,300,20" 
+        href="https://www.google.com/maps/place/SMK+Dato+'Abdul+Rahman+Yakub/@4.3512922,100.8848952,17z/data=!4m6!3m5!1s0x31cad8d192e4552f:0xf52cbf1bdb88d45f!8m2!3d4.350538!4d100.8837472!16s%2Fg%2F122ntvg4?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" 
+        alt="SMKDARY School" 
+        target="_blank" 
+        title="Click to view SMKDARY"
+      />
+    </map>
+  </div>
+
+
+
+
+
+
+
+
+</div>
+</section>
+</main>
+
+</body>
+</html>

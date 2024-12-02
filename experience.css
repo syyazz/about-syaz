@@ -1,0 +1,161 @@
+<!DOCTYPE  html>
+<html>
+<head>
+
+<link rel="stylesheet" href="experiencestyle.css">
+<title>Experience</title>
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+<img src="pokemonlogo.png" alt="Pokemon Logo">
+</div>
+
+<nav>
+<ul>
+<li><a href="homepage.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+</ul>
+</nav>
+
+<div class="play-now">
+<button>Play Now</button>
+</div>
+
+</header>
+
+<main>
+<div class="first-section">
+<h1 class="my-name">ARCHIVES INTERNSHIP</h1>
+</main>
+
+<div class="intern-info">
+<p> PTAR UiTM Perak | Seri Iskandar </p>
+<p> Organizing history, one document at a time </p>
+
+
+<div class="intern1-info">
+<p> I'm so excited to share that I had the amazing opportunity </p>
+<p> to intern at Perpustakaan Tun Abdul Razak (PTAR), UiTM! </p>
+<p> It was such a rewarding experience where I got to explore </p>
+<p> the world of archives, handle important records, and learn </p>
+<p> valuable skills in preservation and organization. </p>
+
+<div class="photointern">
+  <img src="photointern.png" alt="photointern">
+</div>
+</section>
+</main>
+
+<div class="wall">
+  <img src="wall.png" alt="wall">
+</div>
+</section>
+</main>
+
+<div class="pikawork">
+  <img src="pikawork.png" alt="pikawork">
+</div>
+</section>
+</main>
+
+<div class="apple">
+  <img src="apple.png" alt="apple">
+</div>
+</section>
+</main>
+
+
+<div class="dino">
+  <img src="dino.png" alt="dino">
+</div>
+</section>
+</main>
+
+
+<div class="intern-intro">
+<p>Key Responsibilities: </p>
+<p>- Fill out an acession form for archival disposal </p>
+<p>- Assisting in organizing & cataloging materials </p>
+<p>- Maintaining and updating the archive's management system. </p>
+<p>- Ensuring proper preservation and storage of fragile documents. </p>
+
+<div class="benefit">
+<p> Benefit Internship: </p>
+<p> Develop both technical and soft skills, such as problem-solving. </p>
+<p> Understand how the industry operates and the daily responsibilities. </p>
+<p> Discover interests and strengths while exploring potential career paths. </p>
+<p> Boosting my confidence in my abilities and work ethic. </p>
+
+<div class="sec-section">
+<h1 class="my-name">SKILLS</h1>
+
+
+<div class="skill-info">
+<p> Technical Skills </p>
+<p> Database Management | Web </p>
+
+
+
+<div class="Database">
+<p> I can handling, storing, and organizing data efficiently. I am skilled in Microsoft Word </p>
+<p> for creating polished documents and PowerPoint for designing engaging presentations.</p>
+<p> These tools enable effective data organization and Professional communication.</p>
+
+<div class="word">
+  <img src="word.png" alt="word">
+</div>
+
+<div class="powerpoint">
+  <img src="powerpoint.png" alt="powerpoint">
+</div>
+
+<div class="skillpika">
+  <img src="skillpika.png" alt="skillpika">
+</div>
+
+
+<div class="boy">
+  <img src="boy.png" alt="boy">
+</div>
+
+
+<div class="matcha">
+  <img src="matcha.png" alt="matcha">
+</div>
+
+
+<div class="prof">
+  <img src="prof.png" alt="prof">
+</div>
+
+<div class="skill2-info">
+<p> Communication Skills </p>
+<p> Written | Idea </p>
+
+<div class="communicate">
+<p> Effective written communication is the ability to express ideas clearly and professionally in writing. </p>
+<p>  I am skilled in drafting reports, detailed documentation, and emails for both internal </p>
+<p> and external communication. This includes structuring content logically and using clear language.</p>
+
+<div class="laptop">
+  <img src="laptop.png" alt="laptop">
+</div>
+
+
+<div class="com">
+  <img src="com.png" alt="com">
+</div>
+
+</div>
+</section>
+</main>
+
+</body>
+</html>

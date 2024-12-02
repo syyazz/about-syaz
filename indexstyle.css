@@ -1,0 +1,189 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body {
+font-family: 'Arial', sans-serif;
+height: 400px;
+background: linear-gradient(to right, #003366 0%, #99ffcc 100%);
+color: white;
+}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom-style: dashed;
+border-color: aliceblue;
+
+background: linear-gradient(to right, #003366 0%, #99ffcc 100%);
+padding: 20px;
+position: relative;
+}
+
+.logo img{
+width: 100px;
+}
+
+nav ul {
+background: linear-gradient(to right, #00ffff 0%, #6699ff 100%);
+border-radius: 10px;
+padding: 16px 30px;
+text-align: center;
+font-size: 16px;
+margin: 2px 2px;
+border: 4px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+display: flex;
+list-style: none;
+}
+
+
+nav ul li {
+display: flex;
+list-style: none;
+margin-right: 20px;
+}
+
+nav ul li a {
+text-decoration: none;
+color: black;
+font-size: 14px;
+font-weight: bold;
+text-transform: uppercase;
+letter-spacing: 1px;
+padding: 1px 13px;
+border-radius: 5px;
+transition: all 0.3 ease;
+}
+
+nav ul li a:hover {
+background-color: black;
+color: powderblue;
+box-shadow: 0 8px 8px rgba(0,0, 0, 0.2);
+}
+
+
+.play-now button {
+background-color: yellowgreen;
+margin-left: 10px;
+padding: 12px 20px;
+border-style: none;
+border-radius: 9px;
+box-shadow: 5px 5px 5px grey;
+}
+
+.fire-image img{
+position: absolute;
+width: 550px;
+height: 350px;
+bottom: -0px;
+left: -9px;
+} 
+
+.fire2-image img{
+position: absolute;
+width: 560px;
+height: 380px;
+bottom: -0px;
+left: 340px;
+} 
+
+.fire3-image img{
+position: absolute;
+width: 530px;
+height: 350px;
+bottom: -0px;
+left: 830px;
+} 
+
+
+.pikachu1-image img{
+position: absolute;
+width: 470px;
+bottom: 0px;
+right: 320px;
+} 
+
+.pokemon-image img{
+position: absolute;
+width: 400px;
+bottom: 0px;
+right: 0px;
+}
+
+main{
+text-align: left;
+margin-top: 50px;
+}
+
+.hello-section{
+text-align: left;
+padding: 40px 100px;
+margin-top: 50px;
+}
+
+.main-title{
+margin-bottom: 10px;
+font size: 30px
+font-weight: bold;
+}
+
+.intro-text {
+margin-bottom: 11px;
+font-size: 16px;
+color: white;
+
+}
+
+.pokemon-info{
+background: linear-gradient(to right, #00ffff 0%, #6699ff 100%);
+border-radius: 10px;
+margin-left: 120px;
+color: lavenderblush;
+width: 500px;
+line-height: 30px;
+height: 160px;
+border: 2px solid aliceblue;
+box-shadow: 10px 10px 5px black;
+text-align: center;
+margin-left: 10px;
+color: black;
+padding: 15px;
+margin-top: 28px;
+}
+
+.redball-image img {
+position: absolute;
+width: 140px;
+top: 320px;
+left: 268px;
+}
+
+.instagram-image img {
+position: absolute;
+width: 36px;
+margin: 15px;
+bottom: 460px;
+left: 0px;
+}
+
+.tiktok-image img {
+position: absolute;
+width: 36px;
+margin: 15px;
+bottom: 410px;
+left: 0px;
+}
+
+.twitter-image img {
+position: absolute;
+width: 35px;
+margin: 15px;
+bottom: 360px;
+left: 0px;
+}

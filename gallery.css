@@ -1,0 +1,790 @@
+<!DOCTYPE  html>
+<html>
+<head>
+
+<link rel="stylesheet" href="gallerystyle.css">
+<title>Gallery</title>
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+<img src="pokemonlogo.png" alt="Pokemon Logo">
+</div>
+
+<nav>
+<ul>
+<li><a href="homepage.html">Home</a></li>
+<li><a href="biodata.html">Biodata</a></li>
+<li><a href="experience.html">Experience</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="family.html">Family</a></li>
+<li><a href="gallery.html">Gallery</a></li>
+</ul>
+</nav>
+
+<div class="play-now">
+<button>Play Now</button>
+</div>
+</header>
+
+
+<main>
+
+
+<div class="first-section">
+<h1 class="main-title">THE VISUAL DIARY</h1>
+</div>
+
+
+<div class="ribbon">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon1">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon2">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon3">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon4">
+  <img src="ribbon2.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon5">
+  <img src="ribbon3.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon6">
+  <img src="ribbon3.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon7">
+  <img src="ribbon2.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon8">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon9">
+  <img src="ribbon.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon10">
+  <img src="ribbon2.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon11">
+  <img src="ribbon3.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="ribbon12">
+  <img src="ribbon2.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="ribbon13">
+  <img src="ribbon3.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="soft">
+  <img src="soft.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="soft2">
+  <img src="soft.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="soft3">
+  <img src="soft.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+<div class="soft1">
+  <img src="soft1.png" alt="ribbon">
+</div>
+</section>
+</main>
+
+
+<div class="soft4">
+  <img src="soft.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="soft5">
+  <img src="soft.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="soft6">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="soft7">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="soft8">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="soft9">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="daisy">
+  <img src="soft2.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy1">
+  <img src="soft2.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy2">
+  <img src="soft2.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="daisy3">
+  <img src="soft3.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy4">
+  <img src="soft3.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy5">
+  <img src="soft3.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy6">
+  <img src="soft.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy7">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy8">
+  <img src="soft.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="daisy9">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="daisy10">
+  <img src="soft.png" alt="pika">
+</div>
+</section>
+</main>
+
+<div class="daisy11">
+  <img src="soft1.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+
+<div class="daisy12">
+  <img src="soft2.png" alt="pika">
+</div>
+</section>
+</main>
+
+
+<div class="daisy13">
+  <img src="soft3.png" alt="pika">
+</div>
+</section>
+</main>
+
+<style>
+div.gallery {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+div.gallery2 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery2:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery2 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery3 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery3:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery3 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery4 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery4:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery4 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+div.gallery5 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery5:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery5 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+div.gallery6 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery6:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery6 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery7 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery7:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery7 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+
+div.gallery8 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery8:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery8 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+
+div.gallery9 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery9:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery9 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery10 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery10:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery10 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+div.gallery11 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery11:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery11 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery12 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery12:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery12 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery13 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery13:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery13 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+div.gallery14 {
+  border: 4px solid white;
+  overflow: hidden;
+  border-radius: 10px;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+div.gallery14:hover {
+  border-color: #FFC0CB;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+
+div.gallery14 img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+</head>
+<body>
+
+
+<div class="responsive">
+<div class="gallery">
+<a target="_blank" href="syaza.jpg">
+<img src="syaza.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery2">
+<a target="_blank" href="sya.jpg">
+<img src="sya.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery3">
+<a target="_blank" href="sya5.jpg">
+<img src="sya5.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery4">
+<a target="_blank" href="sya2.jpg">
+<img src="sya2.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery5">
+<a target="_blank" href="sya3.jpg">
+<img src="sya3.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery6">
+<a target="_blank" href="sya4.jpg">
+<img src="sya4.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery7">
+<a target="_blank" href="beach.jpg">
+<img src="beach.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery7">
+<a target="_blank" href="beach.jpg">
+<img src="beach.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery8">
+<a target="_blank" href="beach1.jpg">
+<img src="beach1.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery9">
+<a target="_blank" href="beach2.jpg">
+<img src="beach2.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery10">
+<a target="_blank" href="beach3.jpg">
+<img src="beach3.jpg" alt="Portrait of Syaza">
+</a> 
+</div>
+</div>
+
+
+
+
+
+<div class="clearfix"></div>
+
+<div class="sec-section">
+<h1 class="main-title">MYSELF</h1>
+</div>
+
+<div class="third-section">
+<h1 class="main-title">BESTIE GOALS</h1>
+</div>
+
+<div class="fourth-section">
+<h1 class="main-title">BEACH THE DAY</h1>
+</div>
+
+<div class="fifth-section">
+<h1 class="main-title">NATURE AND SCENERY</h1>
+</div>
+
+<div class="responsive">
+<div class="gallery11">
+<a target="_blank" href="sunset.jpg">
+<img src="sunset.jpg" alt="sunset">
+</a> 
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery12">
+<a target="_blank" href="sunset2.jpg">
+<img src="sunset2.jpg" alt="sunset">
+</a> 
+</div>
+</div>
+
+<div class="responsive">
+<div class="gallery13">
+<a target="_blank" href="sunset3.jpg">
+<img src="sunset3.jpg" alt="sunset">
+</a> 
+</div>
+</div>
+
+
+<div class="responsive">
+<div class="gallery14">
+<a target="_blank" href="sunset4.jpg">
+<img src="sunset4.jpg" alt="sunset">
+</a> 
+</div>
+</div>
+
+
+<div class="six-section">
+<h1 class="main-title">SUNSET AND BEACH</h1>
+</div>
+
+
+</div>
+</section>
+</main>
+
+</body>
+</html>
